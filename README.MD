@@ -1,3 +1,11 @@
+Show branches  
+\
+`git branch`
+
+Create a new branch from Head  
+\
+`git branch dev`
+
 Track or stage file a \
 `git add fileName`  
 \
